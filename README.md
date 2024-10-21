@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 --
 ## 🛠️ My Tech Stack
 
-                                                                                                    | **Category**         | **Technology**        |
-                                                                                                    |----------------------|-----------------------|
-                                                                                                    | **Languages**        | C, C++, C#, Python, Java |
-                                                                                                    | **Frontend**         | HTML5, CSS3, JavaScript |
-                                                                                                    | **CSS Frameworks**    | Bootstrap, Tailwind CSS |
-                                                                                                    | **JavaScript Frameworks** | React, Vue.js         |
-                                                                                                    | **Version Control**   | Git, GitHub            |
-                                                                                                    | **Build Tools**       | Webpack, npm           |
-                                                                                                    | **Package Managers**  | npm, Yarn              |
-                                                                                                    | **Backend**           | Node.js, Express.js    |
-                                                                                                    | **Database**          | MongoDB, MySQL         |
-                                                                                                    | **Deployment**        | Netlify, Vercel, Heroku |
-                                                                                                    | **Design Tools**      | Figma, Adobe XD        |
-                                                                                                    | **Testing**           | Jest, Cypress          |
-                                                                                                    | **API Development**   | REST, GraphQL          |
+| **Category**         | **Technology**        |
+|----------------------|-----------------------|
+| **Languages**        | C, C++, C#, Python, Java |
+| **Frontend**         | HTML5, CSS3, JavaScript |
+| **CSS Frameworks**    | Bootstrap, Tailwind CSS |
+| **JavaScript Frameworks** | React, Vue.js         |
+| **Version Control**   | Git, GitHub            |
+| **Build Tools**       | Webpack, npm           |
+| **Package Managers**  | npm, Yarn              |
+| **Backend**           | Node.js, Express.js    |
+| **Database**          | MongoDB, MySQL         |
+| **Deployment**        | Netlify, Vercel, Heroku |
+| **Design Tools**      | Figma, Adobe XD        |
+| **Testing**           | Jest, Cypress          |
+| **API Development**   | REST, GraphQL          |
 
 
 ---
