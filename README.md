@@ -5,19 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Advance java
+- 🌱 I’m currently learning ... Advance java
+- 👯 I’m looking to collaborate on ... Advance java
+- 🤔 I’m looking for help with ... Advance java
+- 💬 Ask me about ... JAVA
+- 📫 How to reach me: ... linkedin.com/in/aman-jha-a137a3235
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ...I don't care about you 
 -->
 ## 🛠️ My Tech Stack
 
 | **Category**         | **Technology**        |
 |----------------------|-----------------------|
+| **Languages**        | C, C++, C#, Python, Java |
 | **Frontend**         | HTML5, CSS3, JavaScript |
 | **CSS Frameworks**    | Bootstrap, Tailwind CSS |
 | **JavaScript Frameworks** | React, Vue.js         |
