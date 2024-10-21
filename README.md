@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+--
 **madskull0101/madskull0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,24 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... linkedin.com/in/aman-jha-a137a3235
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...I don't care about you 
--->
+--
 ## 🛠️ My Tech Stack
 
-| **Category**         | **Technology**        |
-|----------------------|-----------------------|
-| **Languages**        | C, C++, C#, Python, Java |
-| **Frontend**         | HTML5, CSS3, JavaScript |
-| **CSS Frameworks**    | Bootstrap, Tailwind CSS |
-| **JavaScript Frameworks** | React, Vue.js         |
-| **Version Control**   | Git, GitHub            |
-| **Build Tools**       | Webpack, npm           |
-| **Package Managers**  | npm, Yarn              |
-| **Backend**           | Node.js, Express.js    |
-| **Database**          | MongoDB, MySQL         |
-| **Deployment**        | Netlify, Vercel, Heroku |
-| **Design Tools**      | Figma, Adobe XD        |
-| **Testing**           | Jest, Cypress          |
-| **API Development**   | REST, GraphQL          |
+                                                                                                    | **Category**         | **Technology**        |
+                                                                                                    |----------------------|-----------------------|
+                                                                                                    | **Languages**        | C, C++, C#, Python, Java |
+                                                                                                    | **Frontend**         | HTML5, CSS3, JavaScript |
+                                                                                                    | **CSS Frameworks**    | Bootstrap, Tailwind CSS |
+                                                                                                    | **JavaScript Frameworks** | React, Vue.js         |
+                                                                                                    | **Version Control**   | Git, GitHub            |
+                                                                                                    | **Build Tools**       | Webpack, npm           |
+                                                                                                    | **Package Managers**  | npm, Yarn              |
+                                                                                                    | **Backend**           | Node.js, Express.js    |
+                                                                                                    | **Database**          | MongoDB, MySQL         |
+                                                                                                    | **Deployment**        | Netlify, Vercel, Heroku |
+                                                                                                    | **Design Tools**      | Figma, Adobe XD        |
+                                                                                                    | **Testing**           | Jest, Cypress          |
+                                                                                                    | **API Development**   | REST, GraphQL          |
+
 
 ---
 
