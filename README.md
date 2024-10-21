@@ -10,3 +10,7 @@ Outside of work, I enjoy participating in hackathons, contributing to open-sourc
 madskull0101/madskull0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Programming Languages	Python 🐍	JavaScript 🚀	C++ 🖥️	C 📚
+Web Technologies	Flask 🌐	HTML 🕸️	CSS 🎨	React ⚛️
+Databases	SQL 🛢️	MongoDB 🍃		
+Other Skills	Git 🔄	GitHub 🐙	Node.js 🟩	Express.js 🚂
