@@ -28,7 +28,6 @@
 - 😄 Pronouns he/him
 - ⚡ Fun fact: I don't care about you  
 
-You can add this table to your `README.md` file to showcase the technologies you use in your projects, providing a quick overview for anyone who visits your GitHub profile. You can customize it to fit your specific stack.
 Passionate and detail-oriented Java Full Stack Developer with over 1 year of experience in designing, developing, and deploying robust web applications. Proficient in Java, Spring Boot, and Hibernate for backend development, along with a solid understanding of front-end technologies like HTML, CSS, JavaScript, and popular frameworks such as Angular and React.
 
 Skilled in creating responsive, user-friendly interfaces and ensuring seamless integration with RESTful APIs. Adept at working in Agile environments and collaborating with cross-functional teams to deliver high-quality software solutions on time. Committed to continuous learning and keeping up with industry trends to enhance development practices.
