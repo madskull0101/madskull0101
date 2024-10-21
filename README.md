@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on ... Advance java
 - 🤔 I’m looking for help with ... Advance java
 - 💬 Ask me about ... JAVA
-- 📫 How to reach me: ... linkedin.com/in/aman-jha-a137a3235
+- 📫 How to reach me: ... https://www.linkedin.com/in/aman-jha-a137a3235/overlay/contact-info/
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...I don't care about you  
 
