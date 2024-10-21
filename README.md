@@ -19,14 +19,14 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... Advance java
-- 🌱 I’m currently learning ... Advance java
-- 👯 I’m looking to collaborate on ... Advance java
-- 🤔 I’m looking for help with ... Advance java
-- 💬 Ask me about ... JAVA
-- 📫 How to reach me: ... https://www.linkedin.com/in/aman-jha-a137a3235/overlay/contact-info/
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...I don't care about you  
+- 🔭 I’m currently working on Advance java
+- 🌱 I’m currently learning Advance java
+- 👯 I’m looking to collaborate on Advance java
+- 🤔 I’m looking for help with  Advance java
+- 💬 Ask me about JAVA
+- 📫 How to reach me:https://www.linkedin.com/in/aman-jha-a137a3235/overlay/contact-info/
+- 😄 Pronouns he/him
+- ⚡ Fun fact: I don't care about you  
 
 You can add this table to your `README.md` file to showcase the technologies you use in your projects, providing a quick overview for anyone who visits your GitHub profile. You can customize it to fit your specific stack.
 Passionate and detail-oriented Java Full Stack Developer with over 1 year of experience in designing, developing, and deploying robust web applications. Proficient in Java, Spring Boot, and Hibernate for backend development, along with a solid understanding of front-end technologies like HTML, CSS, JavaScript, and popular frameworks such as Angular and React.
