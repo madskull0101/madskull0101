@@ -4,19 +4,19 @@
 **madskull0101/madskull0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ 
+--
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ... Advance java
+| **Category**         | **Technology**        |                    
+                                                                                                                    - 🔭 I’m currently working on ... Advance java
 - 🌱 I’m currently learning ... Advance java
 - 👯 I’m looking to collaborate on ... Advance java
 - 🤔 I’m looking for help with ... Advance java
 - 💬 Ask me about ... JAVA
 - 📫 How to reach me: ... linkedin.com/in/aman-jha-a137a3235
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...I don't care about you 
---
-## 🛠️ My Tech Stack
-
-| **Category**         | **Technology**        |
+- ⚡ Fun fact: ...I don't care about you  
 |----------------------|-----------------------|
 | **Languages**        | C, C++, C#, Python, Java |
 | **Frontend**         | HTML5, CSS3, JavaScript |
