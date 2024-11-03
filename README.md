@@ -19,10 +19,14 @@
 
 ---
 
-## 🌟 Here’s My Spirit Animal! 🦄
-![Unicorn](https://media.giphy.com/media/13gvXfEVlxQmQ0/giphy.gif)
+### ✨ Some Decorative Elements! ✨
 
-### Let's create something amazing together! 🚀
+🌟 🌈 🎨
+
+![Beautiful Decoration](https://media.giphy.com/media/xT39D7j68A8Q9uGy5i/giphy.gif)
+
+### Let’s create something amazing together! 🚀
+
 
 
 
