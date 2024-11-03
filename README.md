@@ -19,11 +19,10 @@
 
 ---
 
-## 🎉 Exciting Animation 🎉
-![Animated GIF](https://media.giphy.com/media/26BRz3fA8YkZzPTaI/giphy.gif)
+## 🌟 Here’s My Spirit Animal! 🦄
+![Unicorn](https://media.giphy.com/media/13gvXfEVlxQmQ0/giphy.gif)
 
 ### Let's create something amazing together! 🚀
-
 
 
 
