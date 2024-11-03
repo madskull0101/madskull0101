@@ -19,24 +19,6 @@
 | **API Development**          | ![REST](https://img.shields.io/badge/REST-000000?style=flat&logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
 
 
-## 🛠️ My Tech Stack
-
-| **Category**         | **Technology**        |                  
-|----------------------|-----------------------|
-| **Languages**        | C, C++, C#, Python, Java |
-| **Frontend**         | HTML5, CSS3, JavaScript |
-| **CSS Frameworks**    | Bootstrap, Tailwind CSS |
-| **JavaScript Frameworks** | React, Vue.js         |
-| **Version Control**   | Git, GitHub            |
-| **Build Tools**       | Webpack, npm           |
-| **Package Managers**  | npm, Yarn              |
-| **Backend**           | Node.js, Express.js    |
-| **Database**          | MongoDB, MySQL         |
-| **Deployment**        | Netlify, Vercel, Heroku |
-| **Design Tools**      | Figma, Adobe XD        |
-| **Testing**           | Jest, Cypress          |
-| **API Development**   | REST, GraphQL          |
-
 ## Hi there 👋
 
 - 🔭 I’m currently working on FullStack
