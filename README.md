@@ -17,17 +17,6 @@
 | **Testing**                  | ![Jest](https://img.shields.io/badge/Jest-944058?style=flat&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) |
 | **API Development**          | ![REST](https://img.shields.io/badge/REST-000000?style=flat&logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
 
----
-
-### ✨ Some Decorative Elements! ✨
-
-🌟 🌈 🎨
-
-![Beautiful Decoration](https://media.giphy.com/media/xT39D7j68A8Q9uGy5i/giphy.gif)
-
-### Let’s create something amazing together! 🚀
-
-
 
 
 Passionate and detail-oriented Java Full Stack Developer with over 1 year of experience in designing, developing, and deploying robust web applications. Proficient in Java, Spring Boot, and Hibernate for backend development, along with a solid understanding of front-end technologies like HTML, CSS, JavaScript, and popular frameworks such as Angular and React.
